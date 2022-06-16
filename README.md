@@ -8,7 +8,7 @@ Quartus prime
 ## THEORY 
 A programmable logic device (PLD) is an electronic component used to build reconfigurable digital circuits.
 ## Procedure 
-### STEP2:
+### STEP1:
 Start the Quartus II Programmer.
 ![OUTPUT](./1.png)
 ### STEP2:
