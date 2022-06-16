@@ -3,10 +3,10 @@
 To understand the standard procedure to interface an FPGA board and flashing method using usb blaster 
 ## HARDWARE REQUIRED:  
 PC, Cyclone II , USB flasher
-##
-SOFTWARE REQUIRED:   Quartus prime
+## SOFTWARE REQUIRED:   
+Quartus prime
 ## THEORY 
-
+A programmable logic device (PLD) is an electronic component used to build reconfigurable digital circuits.
 ## Procedure 
 ### STEP2:
 Start the Quartus II Programmer.
